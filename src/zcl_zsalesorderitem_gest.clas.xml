@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>Class de gestion de la classe pers</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>GET_HELPER</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>get the helper tool</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>GET_PERS</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>get the persistent class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>MO_AGENT</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Agent Table ZSALESORDERITEM</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>MO_HELP</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Tool for persistent Class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>MO_PERS</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Table ZSALESORDERITEM</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

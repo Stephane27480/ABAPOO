@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_ZSALESORDERITEM_GEST</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>Interface</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Create the record</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>DELETE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Delete the record</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>READ</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Read the record</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_ZSALESORDERITEM_GEST</CLSNAME>
+     <CMPNAME>UPDATE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Update the record</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

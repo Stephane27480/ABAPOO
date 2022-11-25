@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZABAP100</ARBGB>
+    <MASTERLANG>F</MASTERLANG>
+    <STEXT>Formation ABAP 100</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Problème lors de la creation de la sales order &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Problème lors de la modification de la sales order &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Problème lors de la Suppression de la sales order &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Problème lors de la lecture de la sales order &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>sales order &amp;1 créée</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>sales order &amp;1 poste &amp;2  problème lors de la création</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>sales order &amp;1 modifiée</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>sales order &amp;1 poste &amp;2 problème lors de la modification</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>sales order &amp;1 supprimée</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>sales order &amp;1 poste &amp;2 problème lors de la suppression</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>sales order &amp;1 lue</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>sales order &amp;1 poste &amp;2 problème lors de la lecture</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>entree vide</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Erreur lors de la création, le numéro de commande n&apos;est pas renseigné.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>099</MSGNR>
+     <TEXT>&amp;1 &amp;2 &amp;3 &amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>100</MSGNR>
+     <TEXT>Aucun numéro de commande (VBELN) renseigné.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>F</SPRSL>
+     <ARBGB>ZABAP100</ARBGB>
+     <MSGNR>101</MSGNR>
+     <TEXT>Le numéro de commande ou le numéro de poste ne sont pas renseignés.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

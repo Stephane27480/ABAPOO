@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_TOOL_PERS_HELPER</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>Tool for persistent Class</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_TOOL_PERS_HELPER</CLSNAME>
+     <CMPNAME>GET</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>For Read Operation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_TOOL_PERS_HELPER</CLSNAME>
+     <CMPNAME>GT_FIELDS</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>DD : liste de zones</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_TOOL_PERS_HELPER</CLSNAME>
+     <CMPNAME>GT_MAPP</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Table contenant les informations de mappage</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_TOOL_PERS_HELPER</CLSNAME>
+     <CMPNAME>SET</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>For Create / Update Operation</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

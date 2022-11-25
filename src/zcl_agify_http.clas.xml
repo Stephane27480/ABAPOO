@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+    <LANGU>F</LANGU>
+    <DESCRIPT>AGIFY</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>C_URL_BASE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>URL</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>GET_INSTANCE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT> Get the instance of the class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>GET_RESPONSE</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Get the response in JSON</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>JSON2ABAP</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>JSON to ABAP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>MAIN</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Business Logic</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>SEND_REQUEST</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>send request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_AGIFY_HTTP</CLSNAME>
+     <CMPNAME>SET_COUNTRY</CMPNAME>
+     <LANGU>F</LANGU>
+     <DESCRIPT>Set the country parameter</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
